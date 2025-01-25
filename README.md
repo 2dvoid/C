@@ -22,3 +22,9 @@ void getString(char *arr, int n){
 	arr[strcspn(arr,"\n")]='\0';
 }
 ```
+
+
+## Common Problems:
+
+**Palindrome Checker:**   
+[Code](Palindrome_Checker.c)
